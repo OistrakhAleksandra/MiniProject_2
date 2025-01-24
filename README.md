@@ -16,4 +16,4 @@ This code calculates the mean Event-Related Potential (ERP) for five fingers bas
 
 ## **Visualization**
 
-![ERP Plot](vizualization/finger_erp_mean_graph.png)
+![ERP Plot](visualization/finger_erp_mean_graph.png)
