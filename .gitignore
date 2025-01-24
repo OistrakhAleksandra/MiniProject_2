@@ -2,7 +2,7 @@ venv
 mypy_cache
 pytest_cache
 ruff_cache
-.tox
+.tox/
 build
 reports
 archive
